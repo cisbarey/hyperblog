@@ -5,3 +5,5 @@ Esto es un título centrado.
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 Y esto de arriba es la foto de unas Leonas.
+
+En esta sección se pondra un footer con la información general.
